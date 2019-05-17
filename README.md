@@ -1,5 +1,6 @@
 # GitHub101
 **A place to teach and learn GitHub**
+
 A place for personal reminders and instructions to use GitHub. Cause we all forget sometimes.
 
 ## Creating a Repo
@@ -22,7 +23,7 @@ A place for personal reminders and instructions to use GitHub. Cause we all forg
 **4. Copy link**
 
 **5. Open terminal and cd into folder/directory where you want to store it**
-- I store all my repositories in a folder called 'GitHub'. 
+- I store all my repositories in a folder called 'GitHub' so my terminal command would look like `cd GitHub`
 - *Remember: Directories can be anywhere AND do not put repos inside repos.*
 
 **6. Type git clone command in terminal and copy link**
@@ -35,6 +36,9 @@ A place for personal reminders and instructions to use GitHub. Cause we all forg
 
 ### Steps
 **1. Add files to a directory**
-**2. Open terminal and cd into the directory of the repository you want to push to 
+**2. Open terminal and cd into the directory of the repository you want to push to** 
+- For example, if I wanted to update files I had added into my shiny new GitHub101 repo, my commands would look like this:
+    - `cd GitHub`
+    - `cd GitHub101`
 
 ## Terminal Command Cheatsheet
