@@ -32,7 +32,7 @@ It is my intention to keep these instructions in very plain language for beginne
 - It will look something like this: `git clone git@github.com:username/repoName.git`
 
 ### Other Links
-- (Start a new github repository)[https://kbroman.org/github_tutorial/pages/init.html]
+- [Start a new github repository](https://kbroman.org/github_tutorial/pages/init.html)
 
 ## Pushing to a Repo
 ### Overview
@@ -58,7 +58,7 @@ It is my intention to keep these instructions in very plain language for beginne
 - `git status` - check status again to make sure all changes went through
     
 ### Other Links
-- (Git Gud: The Working Tree, Staging Area, and Local Repo)[https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018]
+- [Git Gud: The Working Tree, Staging Area, and Local Repo](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
 
 ## Terminal Command Cheatsheet
 - **pwd** - full path to working directory
