@@ -1,4 +1,4 @@
-# GitHub101
+# GitHub 101
 **A place to teach and learn GitHub**
 
 *A place for personal reminders and instructions to use GitHub. 'Cause we all forget sometimes.*
