@@ -59,6 +59,7 @@ It is my intention to keep these instructions in very plain language for beginne
     
 ### Other Links
 - [Git Gud: The Working Tree, Staging Area, and Local Repo](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
+- [Git Workflow](https://gist.github.com/blackfalcon/8428401)
 
 ## Terminal Command Cheatsheet
 - **pwd** - full path to working directory
