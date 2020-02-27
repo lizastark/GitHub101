@@ -72,3 +72,5 @@ It is my intention to keep these instructions in very plain language for beginne
 - **ls -l** - long list
 - **ls -a** - list with invisible files
 - **clear** - clear screen
+
+testing 1.2.3. from vscode
